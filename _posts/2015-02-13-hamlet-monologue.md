@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: To be
 subtitle: ... or not to be?
 ---
