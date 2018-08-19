@@ -4,7 +4,6 @@ title: Hakkımda
 subtitle: 
 ---
 
-
-#### . 2012 - 2017 Gazi Üniversitesi Bilgisayar Mühendisliği 
-#### . 2017 - 2018 Turkcell Teknoloji Araştırma ve Geliştirme A.Ş.
-#### . 2018 - 
+. 2012 - 2017 Gazi Üniversitesi Bilgisayar Mühendisliği 
+. 2017 - 2018 Turkcell Teknoloji Araştırma ve Geliştirme A.Ş.
+. 2018 - 
