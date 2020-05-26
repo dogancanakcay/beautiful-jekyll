@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: First post!
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
