@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Test markdown
 subtitle: Each post also has a subtitle
 ---
