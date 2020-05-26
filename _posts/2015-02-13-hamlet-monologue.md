@@ -5,6 +5,7 @@ title: To be
 subtitle: ... or not to be?
 ---
 
+{% highlight r %}
 To be, or not to be--that is the question:
 Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
