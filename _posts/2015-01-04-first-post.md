@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: First post!
+title: İlk Post!
 ---
 
 Merhabalar,
